@@ -1,0 +1,64 @@
+.mainHeader {
+    background-color: black;
+    height: 120px;
+    display: flex;
+    font-size: 20px;
+}
+.headA {
+    color:aliceblue;
+    text-decoration: none;
+    margin-left: 165px;
+    margin-top: 50px;
+}
+img {
+    height: 800px;
+    width: 1424px;
+}
+.mainText {
+    position: absolute;
+    top: 370px;
+    left: 180px;
+    font-size: 50px;
+    color: white;
+}
+.mainButton{
+    text-decoration: none;
+    position: absolute;
+    top: 510px;
+    left: 620px;
+    font-size: 35px;
+    color:azure;
+    background-color:gray;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-left: 60px;
+    padding-right: 60px;
+    padding-bottom: 10px;
+}
+footer {
+    background-color:black;
+    width: 98%;
+    float: left;
+    padding: 1%;
+    margin-top: 10px;
+}
+.imgFooter {
+    width: 50px;
+    height: 50px;
+   padding-left: 20px;
+}
+.mainTitle {
+    margin-left: 580px;
+}
+footer #social {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+footer #info {
+    float: right;
+    text-align: right;
+    font-size: 1.1em;
+    color: white;
+    margin-top: 20px;
+}
